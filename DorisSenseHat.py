@@ -31,4 +31,4 @@ while True:
     angles = [0, 90, 180, 270]
     for r in angles:
         sense.set_rotation(r)
-        #sleep(0)
+        sleep(1)
